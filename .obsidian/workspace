@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "448bf325aa01db62",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c91de3479d6d543",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Trends/13. Illuminated Manuscripts.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "86a5944a4c126996",
+    "type": "split",
+    "children": [
+      {
+        "id": "efd5a3297a32059f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ed7a14cdd5d8f39",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3740c5c9c4f53544",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d9805555a009afb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0970feb76c80cb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26f759ed172dbe5b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Trends/13. Illuminated Manuscripts.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Trends/13. Illuminated Manuscripts.md",
+    "Technology/Cinnabar Pigment.md",
+    "Trends/00. Why Design History⁉.md",
+    "Trends/03. 15000-10000 BCE Caves at Lascaux.md",
+    "Trends/04. 13000 - 9000 BCE Cueva de los Manos.md",
+    "Trends/05. 7000 BCE Barrier Canyon Style.md",
+    "Trends/11. Evolution of Modern Letterforms.md",
+    "Trends/12. Early Development in China.md",
+    "Trends/02. 36000 BCE Cave at Altamira.md",
+    "Trends/01. Prehistoric Visual Communication.md"
+  ]
+}
