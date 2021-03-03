@@ -17,7 +17,7 @@
  
  **Matrix:** Slipped into bottom of mold
  
- **Mold:** filled with hot lead/tin to hardebn and create a block of type
+ **Mold:** filled with hot lead/tin to harden and create a block of type
 
 ![[a67e51fcccd4fc0cc9733f8834210d1f.jpg]]
 Jost Amman, Book of Trades, Typefounder, 1568
