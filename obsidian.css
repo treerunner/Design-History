@@ -1,5 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;400;700&display=swap');
 
+.site-body-left-column {
+    width: 350px;
+    flex: 0 0 350px;
+}
+
+.published-container.is-readable-line-width .site-body-center-column {
+    flex: 0 1 840px;
+}
+
 .markdown-preview-view .internal-embed img {
 	cursor:zoom-in;}
 
